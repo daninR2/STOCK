@@ -1,0 +1,5 @@
+Daniyal,password
+Mustafa,m 
+Mummy,A
+Baba,J
+Aliza,Al
